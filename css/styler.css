@@ -6,7 +6,7 @@
 }
 
 .container {
-    background-color: #eee;
+    background-color: #fff;
     display: grid;
     grid-template-columns: repeat(3, auto);
     grid-template-rows: 160px repeat(4, auto);
@@ -24,7 +24,7 @@
 
 .header {
     grid-area: 1/2/2/4;
-    background-color: #ccc;
+    background-color: #eee;
     padding: 20px;
 
 }
